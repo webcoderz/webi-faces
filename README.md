@@ -13,10 +13,11 @@ follow the format of the repository,
 each photo  and description file(*.txt) goes in a subdirectory of the face_database directory named {firstname}-{lastname} 
 e.g.: /images/face_database/{firstname}-{lastname}<br />
 
-structured like:<br />
+structured like:
 
-images/<br />
-    <br />face_database/<br />
-            <br />Andy-Ngo/<br />
-                  <br />AN.txt<br />
-                  <br />AndyNgo.jpg<br />
+<pre>
+images/
+    face_database/
+            Andy-Ngo/
+                  AN.txt<
+                  AndyNgo.jpg</pre>
