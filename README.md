@@ -16,7 +16,7 @@ e.g.: /images/face_database/{firstname}-{lastname}<br />
 structured like:<br />
 
 images/<br />
-    face_database/<br />
-            Andy-Ngo/<br />
-                  AN.txt<br />
-                  AndyNgo.jpg<br />
+    <br />face_database/<br />
+            <br />Andy-Ngo/<br />
+                  <br />AN.txt<br />
+                  <br />AndyNgo.jpg<br />
