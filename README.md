@@ -19,5 +19,5 @@ structured like:
 images/
     face_database/
             Andy-Ngo/
-                  AN.txt<
+                  AN.txt
                   AndyNgo.jpg</pre>
