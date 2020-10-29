@@ -18,6 +18,6 @@ structured like:
 <pre>
 images/
     face_database/
-            Andy-Ngo/
-                  AN.txt
-                  AndyNgo.jpg</pre>
+        Andy-Ngo/
+            AN.txt
+            AndyNgo.jpg</pre>
