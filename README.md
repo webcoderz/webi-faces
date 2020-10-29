@@ -18,6 +18,6 @@ the directory named {firstname}-{lastname} should be structured like:
 <pre>
 images/
     face_database/
-        Andy-Ngo/
-            AN.txt
-            AndyNgo.jpg</pre>
+        {firstname}-{lastname}/
+            description.txt
+            example.jpg</pre>
