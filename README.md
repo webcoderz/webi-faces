@@ -11,9 +11,9 @@ To ensure transparency and openness we publish our entire model of face encoding
 follow the format of the repository, 
 
 each photo  and description file(*.txt) goes in a subdirectory of the face_database directory named {firstname}-{lastname} 
-e.g.: <pre>/images/face_database/{firstname}-{lastname}</pre>
+<pre>/images/face_database/{firstname}-{lastname}</pre>
 
-structured like:
+the directory named {firstname}-{lastname} should be structured like:
 
 <pre>
 images/
