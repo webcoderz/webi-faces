@@ -1,5 +1,5 @@
 # webi-faces
-repository of images// encodings currently in use at webi
+repository of images// encodings currently in use at webi.ai
 
 
 This repository serves as a decentralized photo upload and review for webi services.
